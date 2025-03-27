@@ -22,11 +22,10 @@ We bring together world-leading departments across Oxford to equip students with
 
 ## 🔍 Key Themes
 
-- **Foundations of Machine Learning & AI**
-- **Ethics, Governance & Responsible Innovation**
-- **AI in Science, Medicine, and Government**
-- **Human-AI Interaction & Decision-Making**
-- **Technical and Policy Frontiers in AI**
+- Health & Medical Science
+- Food Security & Sustainable Agriculture
+- Climate Change & Clean Energy
+- Government Innovation in the Era of AI
 
 ---
 
