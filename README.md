@@ -47,12 +47,10 @@ We bring together world-leading departments across Oxford to equip students with
 ## 🌐 Partner Departments & Institutes
 
 - Department of Computer Science  
-- Department of Engineering Science  
-- Department of Philosophy  
-- Blavatnik School of Government  
-- Oxford Internet Institute  
-- Nuffield Department of Medicine  
-- The Ellison Institute for Transformative Medicine  
+- Department of Engineering Science
+- Department of Statistics
+- Mathematical Institute  
+- Nuffield Department of Medicine
 
 ---
 
