@@ -24,7 +24,7 @@ Key topics and themes will focus on fundamentals of artificial intelligence, com
 
 ## 🔍 Key Themes
 
-- [docs/themes/health-medical-science.md](Health & Medical Science)
+- [Health & Medical Science](docs/themes/health-medical-science.md)
 - Food Security & Sustainable Agriculture
 - Climate Change & Clean Energy
 - Government Innovation in the Era of AI
