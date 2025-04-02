@@ -74,3 +74,9 @@ The first year will involve eight study modules delivered during the first two t
 
 In addition to the study modules, there will be an additional **Software Engineering** training programme ... EIT Leadership programme ...
 
+### Rotation projects
+
+### Research Proposals
+
+
+
