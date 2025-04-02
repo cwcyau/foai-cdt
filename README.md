@@ -20,7 +20,20 @@ At the FOAI CDT, researchers maybe interested in particular applications of AI s
 
 In recent years, there has been an unprecedent emregence of large and complex AI systems, such as Large Language Models. Researchers in this area are interested in the formal frameworks for characteristing the design and development of such systems and using these to further understand the properties and behaviours of such systems. They may also be interested in the security, scalability and physical resource requirements of such systems.
 
+## Course Programme
 
+The FOAI CDT implements a four year doctoral programme in a 1+3 format. The first year involves participation in a number of taught study modules covering a range of EIT and FOAI topics. At the end of the first year, the students will propose a research project to be carried out in Years 2-4 of their studies.
+
+### First Year Modules
+
+The first year will involve eight study modules delivered during the first two terms. These will include:
+
+1. **Fundamentals of AI** - this introductory module will provide a rapid overview of the current state of the art topics in artificial intelligence and linking these to fundamental unresolved questions. This module will enable FOAI CDT students to gain an overview of the breadth and depth of AI research at Oxford and also at the EIT. It will challenge them to consider AI research areas that they may not have considered before.
+
+2. **EIT Theme: Health & Medical Sciences** - this application-focused module will explore the applications of AI in the health and medical sciences from molecular to population-based research. The module will provide an introduction to formal methods of experimental design and observational study analysis and link these to the development of AI methods for high-dimensional structured data modelling, time-to-event analysis, causal methods as well as ethics and regulation.
+ 
+4. **EIT Theme: Food security and Sustainable Agriculture / Climate change and clean energy**
+5. **EIT Theme: Government innovation in the era of AI**
 
 ---
 
