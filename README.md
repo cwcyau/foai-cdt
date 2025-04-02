@@ -2,7 +2,11 @@
 
 ## About
 
-The EIT CDT in Fundamentals of AI will support up to 100 doctoral researchers to undertake foundational research in the underpinning theory and methods of Artificial Intelligence that have the potential to have a transformative impact on the field of artificial intelligence itself and across a range of humane themes associated with the EIT. EIT themes range across: health and medical science; food security and sustainable agriculture; climate change and clean energy; and government innovation in the era of AI.
+The EIT CDT in Fundamentals of AI based at the University of Oxford is part of a strategic collaboration between the University and the Ellison Institute of Technology. It will support up to 100 doctoral researchers to undertake foundational research in the underpinning theory and methods of Artificial Intelligence that have the potential to have a transformative impact on the field of artificial intelligence itself and across a range of humane themes associated with the EIT.
+
+## What is our mission?
+
+We are dedicated to advancing foundational research in artificial intelligence and machine learning, focusing on theoretical underpinnings and methodological innovation. Our mission is to develop AI technologies with the potential to drive transformative impact across key global challenges particularly those aligned with the Ellison Institute of Technology, including (i) Health and Medical Science, (ii) Food Security and Sustainable Agriculture, (iii) Climate Change and Clean Energy and (iv) Government Innovation in the Era of AI.
 
 ## What are the Fundamentals of AI?
 
@@ -19,6 +23,12 @@ At the FOAI CDT, researchers maybe interested in particular applications of AI s
 ### Fundamentals of AI Systems and Engineering  
 
 In recent years, there has been an unprecedent emregence of large and complex AI systems, such as Large Language Models. Researchers in this area are interested in the formal frameworks for characteristing the design and development of such systems and using these to further understand the properties and behaviours of such systems. They may also be interested in the security, scalability and physical resource requirements of such systems.
+
+## Who are we looking for?
+
+We are looking to recruit individuals whose research interests are aligned with our mission and whose academic and professional experience to date met the following specification: 
+
+**Academic record** - we are looking for individuals with an exceptional academic track record and can demonstrate a high level of performance in a subject of study that involves graduate-level mathematical study. This would normally involve undergraduate and postgraduate study in subjects such as mathematics, statistics, engineering, computer science or physics.
 
 ## Course Programme
 
