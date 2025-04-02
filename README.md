@@ -46,7 +46,7 @@ While not all FOAI CDT students will have a deep interest in applications of AI 
 
 - **Provides indicators of emerging leadership capabilities**
 
-We are seeking individuals who can demonstrate the potential to not only undertake great doctoral research but may have the ability to become leaders in their field and beyond. The CDT will develop these skills during the programme but we want candidates who can give examples where they have demonstrated strong communication skills, the ability to engage and work with others, or taking the initiative and responsibility. Evidence could be in the context of academic or professional work but can also be shown through personal interests and hobbies (e.g. charity work).
+We are seeking individuals who can demonstrate the potential to not only undertake great doctoral research but may have the ability to become leaders in their field and beyond. The CDT will develop these skills during the programme but we want candidates who can give examples where they have demonstrated strong communication skills, the ability to engage and work with others, or taken the initiative and responsibility. Evidence could be in the context of academic or professional work but can also be shown through personal interests, sports and hobbies (e.g. charity work).
 
 ## Course Programme
 
