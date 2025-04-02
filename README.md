@@ -58,7 +58,16 @@ The first year will involve eight study modules delivered during the first two t
 
 1. **Fundamentals of AI** - this introductory module will provide a rapid overview of the current state of the art topics in artificial intelligence and linking these to fundamental unresolved questions. This module will enable FOAI CDT students to gain an overview of the breadth and depth of AI research at Oxford and also at the EIT. It will challenge them to consider AI research areas that they may not have considered before.
 
-2. **EIT Theme: Health & Medical Sciences** - this application-focused module will explore the applications of AI in the health and medical sciences from molecular to population-based research. The module will provide an introduction to formal methods of experimental design and observational study analysis and link these to the development of AI methods for high-dimensional structured data modelling, time-to-event analysis, causal methods as well as ethics and regulation.
+2. **EIT Theme: Health & Medical Sciences** - this application-focused module will explore the use of AI in the health and medical sciences with examples from the molecular through to population-based studies. The module will provide an introduction to formal methods of experimental design and observational study analysis and link these to the development of AI methods for high-dimensional structured data modelling, time-to-event analysis, causal methods as well as ethics and regulation.
  
-4. **EIT Theme: Food security and Sustainable Agriculture / Climate change and clean energy**
-5. **EIT Theme: Government innovation in the era of AI**
+3. **EIT Theme: Food security and Sustainable Agriculture / Climate change and clean energy** - this application-focused module will ... (CY: I don't know enough about this)
+ 
+4. **EIT Theme: Government innovation in the era of AI** - this application-focused module will provide an introduction to the function of government, policy making and the delivery of public services. It will explore the emerging use of AI to deliver government functions and to support decision making and consider the barriers to adoption. It will consider the relationship of these applications to fundamental AI concepts such as algorithmic reproducibility and explainability, human-AI interaction and fairness and ethical considerations.
+  
+5. **Causal inference** - this module will examine fundamental concepts in causal inference and instil a core understanding of the difference between association and causation. It will introduce the related but different approaches to causality and how these can be applied to correctly address causal questions.
+
+6. **Generative AI** - this module will examine state-of-the-art methods and techniques in the design and implementation of Generative AI systems. It will introduce formal mathematical frameworks for the analysis of such models and highlight areas where new theory and frameworks need to be developed.
+
+7. **Statistics in an AI era** - this module will consider the implications of Statistics in the modern era of artificial intelligence. It will explore fundamental statistical concepts and how these continue to be applicable in modern AI. It will consider how statistical thinking could help to resolve gaps in current AI development and understanding.
+
+8. ****
