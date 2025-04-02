@@ -1,11 +1,8 @@
-# 🤖 Ellison Institute of Technology Fundamentals of Artificial Intelligence Centre for Doctoral Training  
-*University of Oxford*
+# 🤖 Ellison Institute of Technology Fundamentals of Artificial Intelligence Centre for Doctoral Training (EIT FOAI CDT)
 
----
+## University of Oxford
 
-## 🌟 Welcome
-
-The EIT CDT in Fundamentals of AI will undertake foundational research in the underpinning theory and method development of Artificial Intelligence and machine learning that have the potential to have a transformative impact across a range of humane themes associated with the Ellison Institute of Technology (EIT). EIT themes range across: health and medical science; food security and sustainable agriculture; climate change and clean energy; and government innovation in the era of AI.
+The EIT CDT in Fundamentals of AI will support up to 100 doctoral researchers to undertake foundational research in the underpinning theory and methods of Artificial Intelligence that have the potential to have a transformative impact on the field of artificial intelligence itself and across a range of humane themes associated with the EIT. EIT themes range across: health and medical science; food security and sustainable agriculture; climate change and clean energy; and government innovation in the era of AI.
 
 The programme will provide students with training in both cutting-edge AI research methodologies and the development of business and transferable skills. Students will undertake a significant, challenging and original research project, leading to the award of a DPhil (PhD).
 
