@@ -72,3 +72,5 @@ The first year will involve eight study modules delivered during the first two t
 
 8. **Generative AI** - this module will examine state-of-the-art methods and techniques in the design and implementation of Generative AI systems. It will introduce formal mathematical frameworks for the analysis of such models and highlight areas where new theory and frameworks need to be developed.
 
+In addition to the study modules, there will be an additional **Software Engineering** training programme ... EIT Leadership programme ...
+
