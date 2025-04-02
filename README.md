@@ -64,11 +64,11 @@ The first year will involve eight study modules delivered during the first two t
  
 4. **EIT Theme: Government innovation in the era of AI** - this application-focused module will provide an introduction to the function of government, policy making and the delivery of public services. It will explore the emerging use of AI to deliver government functions and to support decision making and consider the barriers to adoption. It will consider the relationship of these applications to fundamental AI concepts such as algorithmic reproducibility and explainability, human-AI interaction and fairness and ethical considerations.
 
-5. **Mathematics of AI** - this module will introduce fundamental mathematical techniques and methods that can be used in the design, analysis or evaluation of artificial intelligence algorithms and models. 
+5. **Mathematics of AI** - this module will introduce fundamental mathematical theory, techniques and methods that can be used in the design, analysis or evaluation of artificial intelligence algorithms and models. It will explore classic concepts in areas such as learning theory, numerical optimisation, graph theory and complexity analysis. 
   
 6. **Statistics in AI** - this module will consider the implications of Statistics in the modern era of artificial intelligence. It will explore fundamental statistical concepts and how these continue to be applicable in modern AI. It will consider how statistical thinking could help to resolve gaps in current AI development and understanding.
 
-7. **Causal inference** - this module will examine fundamental concepts in causal inference and instil a core understanding of the difference between association and causation. It will introduce the related but different approaches to causality and how these can be applied to correctly address causal questions.
+7. **Causal inference** - this module explores the foundational concepts of causal inference, emphasising the critical distinction between association and causation. It will introduce various approaches to understanding causality and demonstrate how these methods can be effectively applied to address and resolve causal questions.
 
 8. **Generative AI** - this module will examine state-of-the-art methods and techniques in the design and implementation of Generative AI systems. It will introduce formal mathematical frameworks for the analysis of such models and highlight areas where new theory and frameworks need to be developed.
 
