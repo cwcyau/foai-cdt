@@ -1,4 +1,4 @@
-# Group Projects (2025/26)
+# Group Projects
 
 ## About
 
