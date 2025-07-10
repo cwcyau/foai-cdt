@@ -48,7 +48,7 @@ The following group projects are available for 2025/26:
 | Michaelams | 9 | Milestone 1 Review | First assessment exercise. |
 | Hilary | 0-4 | Project Work | Full-time Project Work. |
 | Hilary | 4 | Milestone 2 Review | Second assessment exercise. | 
-| Hilary | 5-9 | Project Work | Full-time Project Work.. |
+| Hilary | 5-9 | Project Work | Full-time Project Work. |
 | Hilary | 9 | Milestone 3 Review | Third assessment exercise. | 
 | Summer | - | Project Work | 0.5-1 day a week spent on group projects alongside individual rotations. |
 | September | - | Milestone 4 Review | Final team presentations. | 
