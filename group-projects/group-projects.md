@@ -12,7 +12,7 @@ Group projects will run throughout the year with varying levels of time commitme
 
 In Michaelmas term, you will focus on background reading and preparation. You will engage with project mentors to understand the broader context of your problem and the specific literature and background theory to review. Much of this will be done via private study as you will be doing this alongside the core modules. However, there will allocated time for regular touch points with mentors. By the end of the term, the aim is to have a solid knowledge base for the next stage of work and a plan for how the team will progress in the new year.
 
-In Hilary term, the group projects will be your full-time occupation. During this period, you will solidify your knowledge base and this might entail reproducing existing research and examining their properties (both empirically and theoretically). 
+In Hilary term, the group projects will be your full-time occupation. During this period, you will solidify your knowledge base. This might entail reproducing existing research and examining their properties (both empirically and theoretically) or even building prototypes for new ideas. The details will be specific to your team's plans and advice from mentors.
 
 
 ## Projects
