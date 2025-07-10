@@ -12,6 +12,15 @@ The following group projects are available for 2025/26:
 | [Autonomous Lab Agent for Experimental Design](labagent.md) | tbc |
 | [Multiscale Foundation Models](multiscale_foundation.md) | tbc | 
 
+## Project Structure
+
+| Term | Week | Objective | Notes |
+| ---- | ---- | --------- | ----- |
+| Michaelmas | -1 | Project Selection | Form teams. Meet supervisors. |
+| Michaelams | 0-2 | Background Reading | Preparatory reading. Private study in Teams. |
+| Michaelmas | 3-4 | 
+
+
 
 
 
