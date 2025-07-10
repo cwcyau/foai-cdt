@@ -53,6 +53,10 @@ The following group projects are available for 2025/26:
 | Summer | - | Project Work | 0.5-1 day a week spent on group projects alongside individual rotations. |
 | September | - | Milestone 4 Review | Final team presentations. | 
 
+## Legacy
+
+We hope that these group projects will be continued by future cohorts so they will learn from materials created by previous students.
+
 
 
 
