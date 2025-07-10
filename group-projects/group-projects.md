@@ -44,8 +44,8 @@ The following group projects are available for 2025/26:
 | Michaelams | 0-2 | Background Reading | Preparatory reading. Private study in Teams. |
 | Michaelmas | 3 | Project Planning | Teams formulate a plan for the reminder of the project. Define objectives. | 
 | Michaelams | 4-7 | Background Reading | Further preparatory reading. Private study in Teams. |
-| Michaelams | 8 | Milestone 1 Review | Further project planning. First assessment exercise. |
-| Michaelams | 9 | Hack Week | Intense project deep dive. |
+| Michaelams | 8-9 | Hack Weeks | Intense project deep dive. |
+| Michaelams | 9 | Milestone 1 Review | First assessment exercise. |
 | Hilary | 0-4 | Project Work | Full-time Project Work. |
 | Hilary | 4 | Milestone 2 Review | Second assessment exercise. | 
 | Hilary | 5-9 | Project Work | Full-time Project Work.. |
