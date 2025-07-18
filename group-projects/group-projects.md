@@ -35,7 +35,7 @@ The following group projects are available for 2025/26:
 | [When does equivariance help?](equivariance.md) | tbc | 
 | [Autonomous Lab Agent for Experimental Design](labagent.md) | tbc |
 | [Multiscale Foundation Models](multiscale_foundation.md) | tbc | 
-| [Visual Reasoning with Diffusion Models](visual_diffusion.md | tbc |
+| [Visual Reasoning with Diffusion Models](visual_diffusion.md) | tbc |
 
 ## Project Structure
 
