@@ -4,7 +4,7 @@
 
 Modern AI research is fast-paced and ever-changing. This means that traditional methods of teaching such as through lecture courses or the use of textbooks are rarely applicable. The aim of the group projects is to enable learning through supported research and practice.
 
-In teams of 3-4, you will tackle a designated problem. Prior familiarity of the problem is not necessary and we *encourage* you to be part of a team which is looking at something that you have not encountered before - this is about *learning*.
+In teams of 3-4, you will tackle a designated problem. Prior familiarity with the problem is not necessary and we *encourage* you to be part of a team which is looking at something that you have not encountered before - this is about *learning*.
 
 Group projects will run throughout the year with varying levels of time commitment. You will be supported by the CDT Directors and project-specific mentors including from EIT. 
 
@@ -35,6 +35,7 @@ The following group projects are available for 2025/26:
 | [When does equivariance help?](equivariance.md) | tbc | 
 | [Autonomous Lab Agent for Experimental Design](labagent.md) | tbc |
 | [Multiscale Foundation Models](multiscale_foundation.md) | tbc | 
+| [Visual Reasoning with Diffusion Models](visual_diffusion.md | tbc |
 
 ## Project Structure
 
