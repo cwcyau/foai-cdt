@@ -38,6 +38,8 @@ The following group projects are available for 2025/26:
 
 ## Project Structure
 
+Approximate timings to be finalised by September 2025.
+
 | Term | Week | Task | Notes |
 | ---- | ---- | --------- | ----- |
 | Michaelmas | -1 | Project Selection | Form teams. Meet supervisors. |
