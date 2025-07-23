@@ -5,7 +5,6 @@ Autonomous Lab Agent for Experimental Design
 ## Description
 
 Design and evaluate a reinforcement learning (RL) or planning-based agent capable of optimizing experimental decisions in a simulated laboratory environment. The goal is to emulate aspects of autonomous scientific discovery by developing an agent that selects actions (e.g., experimental conditions or measurement sequences) to maximize information gain or target outcome efficiency. The project will focus on proof-of-concept systems, such as toy models of chemical or biological processes, where the agent learns optimal strategies for experiment design.
-Potential Supervisors: Ingmar Posner, Mike Osborne, Jakob Foerster
 
 ## Skills Required
 
