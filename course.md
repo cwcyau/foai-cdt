@@ -1,4 +1,33 @@
 # Course Programme
 
-The FOAI CDT implements a four year doctoral programme in a 1+3 format. The first year involves participation in a number of taught study modules covering a range of EIT and FOAI topics. At the end of the first year, the students will propose a research project to be carried out in Years 2-4 of their studies.
+The FoAI CDT implements a four year doctoral programme in a 1+3 type format.
+
+## First Year
+
+In the first year student undertake the following programmed activities: 
+
+### Software Engineering
+
+This is a two-week module designed to provide an introduction to modern software engineering concepts including programming principles, code testing and high-performance computing environments. This is a shared course with other programmes within the wider [Doctoral Training Centre](https://www.dtc.ox.ac.uk/). 
+
+Link to course (2024/25): [DTC Software Engineering Course](https://train.rse.ox.ac.uk/event/18)
+
+### Fundamentals of AI 1
+
+This is a two week module designed to provide a rapid introduction to key topics in artificial intelligence. 
+
+- Fundamentals of AI 2
+
+- Emerging AI
+
+- AI Skills
+
+- Group Projects
+
+- Individual Rotation Projects
+
+- The DPhil Research
+
+
+The first year involves participation in a number of taught study modules covering a range of EIT and FOAI topics. At the end of the first year, the students will propose a research project to be carried out in Years 2-4 of their studies.
 
