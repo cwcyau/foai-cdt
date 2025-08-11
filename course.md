@@ -14,9 +14,17 @@ Link to course (2024/25): [DTC Software Engineering Course](https://train.rse.ox
 
 ### Fundamentals of AI 1
 
-This is a two week module designed to provide a rapid introduction to key topics in artificial intelligence. 
+This is a two week module designed to provide a rapid introduction to key or under-studied topics in artificial intelligence. In 2025/26, this will include:
 
-- Fundamentals of AI 2
+- Learning Theory
+- Bayesian Statistics
+- Reinforcement Learning
+- Diffusion Models
+- Time-to-event modelling
+
+### Fundamentals of AI 2
+
+
 
 - Emerging AI
 
