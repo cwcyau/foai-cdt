@@ -45,4 +45,4 @@ Students will select or devise two rotation project options (which will last 10-
 
 ## The DPhil Research (Years 2-4)
 
-
+Students will devise a research proposal and nominate a supervision team for their long-term research topic during Trinity term of Year One. This will be assessed over the summer for suitability and they will begin in October of Year 2.
