@@ -6,11 +6,9 @@ The FoAI CDT implements a four year doctoral programme in a 1+3 type format.
 
 In the first year student undertake the following programmed activities: 
 
-### Software Engineering (Weeks 2-3, Michaelmas)
+### [Software Engineering](https://train.rse.ox.ac.uk/event/18) (Weeks 2-3, Michaelmas)
 
 This is a two-week module designed to provide an introduction to modern software engineering concepts including programming principles, code testing and high-performance computing environments. This is a shared course with other programmes within the wider [Doctoral Training Centre](https://www.dtc.ox.ac.uk/). 
-
-Link to course (2024/25): [DTC Software Engineering Course](https://train.rse.ox.ac.uk/event/18)
 
 ### [Fundamentals of AI 1](modules/foai-1.md) (Weeks 4-5, Michaelmas)
 
