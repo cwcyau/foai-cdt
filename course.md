@@ -12,30 +12,37 @@ This is a two-week module designed to provide an introduction to modern software
 
 Link to course (2024/25): [DTC Software Engineering Course](https://train.rse.ox.ac.uk/event/18)
 
-### Fundamentals of AI 1
+### [Fundamentals of AI 1](modules/foai-1.md)
 
-This is a two week module designed to provide a rapid introduction to key or under-studied topics in artificial intelligence. In 2025/26, this will include:
+This is a two week module designed to provide a rapid introduction to key or under-studied topics in artificial intelligence. 
 
-- Learning Theory (Bias-Variance, Approximation-Estimation). Int: Yau. Ext: [Gavin Brown](https://profgavinbrown.github.io/) (Manchester)
-- Bayesian Statistics (Fundamentals, Monte Carlo Sampling). Int: Yau. Ext: [Chris Nemeth](https://www.lancaster.ac.uk/maths/people/christopher-nemeth) (Lancaster)
-- Reinforcement Learning. Int: Abate.
-- Diffusion Models. Int: Deligiannidis.
-- Time-to-event modelling. Int: Yau. Ext: [Catalina Vallejos](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/vallejos-group) (Edinburgh).
+### [Fundamentals of AI 2](modules/foai-1.md)
 
-### Fundamentals of AI 2
-
-
+This is a two week module designed to provide a rapid introduction to key or under-studied topics in artificial intelligence. 
 
 ### Emerging AI
 
+A series of tutorials and seminars predominantly given by Oxford academics on specialist AI topics. These will be an opportunity for students to meet potential DPhil supervisors.
 
 ### AI Skills
 
-### Group Projects
+A series of tutorials and seminars predominantly given by EIT and Oxford academics on specialist AI skills topics. Examples topics to include:
+
+- Multi-GPU programming considerations
+- MLOps
+- Data Engineering
+- Ethics
+- Regulation
+- Publishing
+
+### [Group Projects](group-projects/group-projects.md)
+
+Students will participate in year-long group projects. Part-time in Autumn and Summer terms and full-time in the Spring term.
 
 ### Individual Rotation Projects
 
+Students will select or devise two rotation project options (which will last 10-12 weeks). These will be undertaken during the Summer period after Easter until September.
+
 ## The DPhil Research (Years 2-4)
 
-The first year involves participation in a number of taught study modules covering a range of EIT and FOAI topics. At the end of the first year, the students will propose a research project to be carried out in Years 2-4 of their studies.
 
