@@ -16,26 +16,25 @@ Link to course (2024/25): [DTC Software Engineering Course](https://train.rse.ox
 
 This is a two week module designed to provide a rapid introduction to key or under-studied topics in artificial intelligence. In 2025/26, this will include:
 
-- Learning Theory
-- Bayesian Statistics
-- Reinforcement Learning
-- Diffusion Models
-- Time-to-event modelling
+- Learning Theory (Bias-Variance, Approximation-Estimation). Int: Yau. Ext: Gavin Brown (Manchester)
+- Bayesian Statistics (Fundamentals, Monte Carlo Sampling). Int: Yau. Ext: Chris Nemeth (Lancaster)
+- Reinforcement Learning. Int: Abate.
+- Diffusion Models. Int: Deligiannidis.
+- Time-to-event modelling. Int: Yau. Ext: Catalina Vallejos (Edinburgh).
 
 ### Fundamentals of AI 2
 
 
+### Emerging AI
 
-- Emerging AI
 
-- AI Skills
+### AI Skills
 
-- Group Projects
+### Group Projects
 
-- Individual Rotation Projects
+### Individual Rotation Projects
 
-- The DPhil Research
-
+## The DPhil Research (Years 2-4)
 
 The first year involves participation in a number of taught study modules covering a range of EIT and FOAI topics. At the end of the first year, the students will propose a research project to be carried out in Years 2-4 of their studies.
 
