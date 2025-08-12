@@ -10,6 +10,6 @@ The following provides more information about the CDT:
 
 [What are the Fundamentals of AI?](what_is_foai.md)
 
-[Who are we looking for?](who_are_we_looking_for.md?)
+[Who are we looking for?](who_are_we_looking_for.md)
 
 [What does the course look like?](course.md)
