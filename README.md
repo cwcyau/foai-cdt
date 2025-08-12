@@ -13,7 +13,3 @@ The following provides more information about the CDT:
 [Who are we looking for?](who_are_we_looking_for.md?)
 
 [What does the course look like?](course.md)
-
-[Group Projects](group-projects/group-projects.md)
-
-
