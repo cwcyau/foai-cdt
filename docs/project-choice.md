@@ -16,6 +16,8 @@ The EIT will be interested in supporting individual and coordinated proposals bu
 
 ## What makes a good proposal?
 
+We expect to see the following in a good research proposal:
+
 - All research proposal should contain one or more activities which involve addressing a non-trivial fundamental AI question. This could involve theoretical or methodological development.
 
 - Fundamental AI research does not need to constitute the majority of the proposed research. 
@@ -26,7 +28,7 @@ The EIT will be interested in supporting individual and coordinated proposals bu
 
 - We encourage proposals that involve collaboration with EIT.
 
-*For coordinated proposal*
+For coordinated proposals:
 
 - A clear description of why the proposed series of research activities are focused around a central ambition.
 
@@ -44,4 +46,7 @@ An individual research proposal describes activities that will be undertaken by 
 
 A coordinated research proposals describes a series of interconnected activities that will be undertaken by two or more students. Coordinated research proposals must be sponsored by an EIT researcher.
 
+## How will proposals be assessed?
+
+tbc
 
