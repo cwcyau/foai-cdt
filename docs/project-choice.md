@@ -10,7 +10,13 @@ As the Fundamentals of AI CDT, we are
 
 ## How will my proposal be assessed?
 
+Individual Research Proposal
 
+An individual research proposal describes activities that will be undertaken by a single student only under the guidance of a university supervisor.
+
+Coordinated Research Proposal
+
+A coordinated research proposals describes a series of interconnected activities that will be undertaken by two or more students. Coordinated research proposals must be sponsored by an EIT researcher.
 
 ## The proposal
 
