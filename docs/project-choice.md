@@ -8,9 +8,9 @@ This means we are offering students the chance to develop their own research pro
 
 We would also like to offer students to form teams and develop *coordinated research projects* with the EIT. These will be a series of interconnected research activities that will be undertaken by two or more students centred around a central large-scale research problem. We anticipate coordinated research projects will involve access to significant resources (e.g. data and compute, experimental follow-up, etc) where the scale and cost of the provision of such resouces cannot be justified for a single research student only.
 
-## Individual vs Group Proposals?
+## Individual vs Coordinated Proposals?
 
-We want students to choose the best option that is most compatible with their personal research interests, how they want to work and fits with their future ambitions. For some, the traditional individual research proposal will be the ideal option as it gives maximum independence and freedom. Others may be more attracted to working with others in teams.
+We want students to choose the best option that is most compatible with their personal research interests, how they want to work and fits with their future ambitions. For some students, the traditional individual research proposal will be the ideal option as it gives maximum independence and freedom. Others may be more attracted to working with others in teams and the collaborative opportunities with EIT. Ultimately, every student will have to make a substantive *individual* research contribution for the award of the DPhil degree.
 
 The EIT will be interested in supporting individual and coordinated proposals but capacity limitations means priority maybe given to coordinated proposals.
 
