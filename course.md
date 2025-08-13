@@ -41,6 +41,6 @@ Students will participate in year-long group projects. Part-time in Autumn and S
 
 Students will select or devise two rotation project options (which will last 10-12 weeks). These will be undertaken during the Summer period after Easter until September.
 
-## The DPhil Research (Years 2-4)
+## [The DPhil Research (Years 2-4)](docs/project-choice.md)
 
 Students will devise a research proposal and nominate a supervision team for their long-term research topic during Trinity term of Year One. This will be assessed over the summer for suitability and they will begin in October of Year 2.
