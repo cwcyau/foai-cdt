@@ -16,7 +16,7 @@ At the FoAI CDT we would like to actively encourage the development of early-sta
 
 - We encourage proposals that involve collaboration with EIT.
 
-## How will my proposal be assessed?
+## Do you have a template for the proposal?
 
 [Individual Research Proposal](individal_proposal.md)
 
