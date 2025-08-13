@@ -1,6 +1,8 @@
 # Coordinated Research Proposal
 
-Teams interested in proposing a coordinated research proposal should complete the following group application. Each team member should also complete an individual research proposal which describes their personal contribution to the proposed coordinated research.
+Teams interested in proposing a coordinated research proposal should complete the following coordinated research application. 
+
+Each team member must also complete an individual research proposal which describes their personal contribution to the proposed coordinated research.
 
 **Proposal Title**
 
