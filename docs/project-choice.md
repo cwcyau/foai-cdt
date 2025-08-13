@@ -6,7 +6,7 @@ At the FoAI CDT we would like to actively encourage the development of early-sta
 
 This means we are offering students the chance to develop their own research proposal to be undertaken in Years 2-4 of the programme and to engage in an iterative process of constructive, critical assessment to improved and refine the proposal in order to arrive at a final programme of research. 
 
-We would also like to offer students to form teams and develop *coordinated research projects* with the EIT. These will be a series of interconnected research activities that will be undertaken by two or more students centred around a central large-scale research problem. We anticipate coordinated research projects will involve access to significant resources (e.g. data and compute, experimental follow-up, etc) where the scale and cost of the provision of such resouces cannot be justified for a single research student only.
+We would also like to offer students the opportunity to form teams and develop *coordinated research projects* with the EIT. These will be a series of interconnected research activities that will be undertaken by two or more students centred around a central large-scale research problem. We anticipate coordinated research projects will involve access to significant resources (e.g. data and compute, experimental follow-up, etc) where the scale and cost of the provision of such resouces cannot be justified for a single research student only.
 
 ## Individual vs Coordinated Proposals?
 
