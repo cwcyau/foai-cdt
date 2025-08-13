@@ -70,6 +70,7 @@ Describe the general background to the problem that you are proposing to address
 - Describe the proposed follow-up activities in the next two years of your research
 - You should outline the approaches to developing solutions and the theories and methodologies to be used
 - You should be explicit about the fundamental AI question you will address
+- Describe the roles of any collaborators in the proposed work
   
 **Resources required to support this work (up to 400 words)**
 
