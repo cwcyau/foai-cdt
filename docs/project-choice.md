@@ -38,7 +38,7 @@ For coordinated proposals:
  
 ## Do you have a template for the proposal documentation?
 
-[Individual Research Proposal](individal_proposal.md)
+[Individual Research Proposal](individual_proposal.md)
 
 An individual research proposal describes activities that will be undertaken by a single student only under the guidance of a university supervisor.
 
